@@ -1,0 +1,3 @@
+My name is Jef.
+I am learning Python.
+I am learning Generative AI.
