@@ -29,7 +29,7 @@ def get_llm_response(message):
             prompt += f"{role}: {content}\n"
 
         response = client.models.generate_content(
-            model="gemini-3.6-flash",
+            model="gemini-3.8-flash",
             contents=prompt
         )
         return response.text
