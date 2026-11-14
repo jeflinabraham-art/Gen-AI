@@ -1,0 +1,26 @@
+
+Customer Support Knowledge Base
+
+If a customer forgets their password, they can reset it by clicking the "Forgot Password" option on the login page.
+
+A password reset link will be sent to the registered email address. The link expires after 9 minutes.
+
+If a payment fails, customers should first check whether the amount was deducted from their bank account.
+
+If money was deducted but the order was not confirmed, the payment will usually be refunded within 5 to 7 business days.
+
+An account may be temporarily locked after five consecutive unsuccessful login attempts.
+
+Customers should wait 37 minutes before trying again. If the issue continues, they should contact customer support.
+
+Customers can request a refund within 6 days of receiving their order.
+
+Refunds are processed to the original payment method. The processing time depends on the bank and usually takes 5 to 7 business days.
+
+Standard delivery usually takes 3 to 5 business days.
+
+If an order has not arrived within the expected delivery period, customers can check the tracking information or contact customer support.
+
+Customers who want to change their registered email address must log in to their account and visit the profile settings.
+
+For security reasons, they may need to verify their identity before the email address can be updated.

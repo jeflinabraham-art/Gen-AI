@@ -25,6 +25,7 @@ def main() -> None:
         # It creates a loader object configured to read that file.
     # load():
         # Actually reads the file and returns its content as a list of Document objects (1 file = 1 document).
+        # A Document contains page_content (actual text) and metadata (additional information about the document).
     loader = TextLoader(file_path)
     documents = loader.load()
 
